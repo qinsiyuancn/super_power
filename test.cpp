@@ -2,9 +2,6 @@
 #include <sstream>
 #include <string>
 #include <vector>
-#if FAST_POWER
-#else
-#endif
 
 using namespace std;
 
