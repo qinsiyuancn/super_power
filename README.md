@@ -1,2 +1,2 @@
-# super_prower
+# super_power
 a^b mod c
