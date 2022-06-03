@@ -13,9 +13,7 @@ using namespace std;
     }while(0)
 
 #define ton(in, out) do {\
-        stringstream ss;\
-	ss << in;\
-	ss >> out;\
+        stringstream(in) >> out;\
     }while(0)
 
 #if FAST_POWER
